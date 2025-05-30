@@ -1,2 +1,2 @@
-# AuthInfoUI
+# AuthInfoManager
 ユーザー権限を閲覧/登録/更新/削除するためのアプリのフロント側のソースコード
