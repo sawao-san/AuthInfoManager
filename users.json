@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "60c72b2f9c1e7a001c8e4d10",
+    "category_id": 101,
+    "extension_number": 1234,
+    "mail_address": "alice.smith@example.com",
+    "model_id": 2001,
+    "organization": "開発部",
+    "role": "エンジニア",
+    "user_id": 1,
+    "user_name": "山田 太郎"
+  },
+  {
+    "_id": "60c72b2f9c1e7a001c8e4d11",
+    "category_id": 102,
+    "extension_number": 5678,
+    "mail_address": "bob.johnson@example.com",
+    "model_id": 2002,
+    "organization": "営業部",
+    "role": "マネージャー",
+    "user_id": 2,
+    "user_name": "佐藤 花子"
+  },
+  {
+    "_id": "60c72b2f9c1e7a001c8e4d12",
+    "category_id": 101,
+    "extension_number": 1122,
+    "mail_address": "carol.white@example.com",
+    "model_id": 2003,
+    "organization": "広報部",
+    "role": "広報担当",
+    "user_id": 3,
+    "user_name": "田中 健太"
+  },
+  {
+    "_id": "60c72b2f9c1e7a001c8e4d13",
+    "category_id": 103,
+    "extension_number": 3344,
+    "mail_address": "david.brown@example.com",
+    "model_id": 2004,
+    "organization": "人事部",
+    "role": "人事スペシャリスト",
+    "user_id": 4,
+    "user_name": "鈴木 美咲"
+  },
+  {
+    "_id": "60c72b2f9c1e7a001c8e4d14",
+    "category_id": 102,
+    "extension_number": 9988,
+    "mail_address": "eve.davis@example.com",
+    "model_id": 2005,
+    "organization": "経理部",
+    "role": "経理担当",
+    "user_id": 5,
+    "user_name": "高橋 誠"
+  },
+  {
+    "_id": "60c72b2f9c1e7a001c8e4d15",
+    "category_id": 101,
+    "extension_number": 7766,
+    "mail_address": "frank.miller@example.com",
+    "model_id": 2006,
+    "organization": "開発部",
+    "role": "シニアエンジニア",
+    "user_id": 6,
+    "user_name": "渡辺 陽子"
+  },
+  {
+    "_id": "60c72b2f9c1e7a001c8e4d16",
+    "category_id": 103,
+    "extension_number": 2211,
+    "mail_address": "grace.wilson@example.com",
+    "model_id": 2007,
+    "organization": "法務部",
+    "role": "弁護士",
+    "user_id": 7,
+    "user_name": "中村 大輔"
+  },
+  {
+    "_id": "60c72b2f9c1e7a001c8e4d17",
+    "category_id": 102,
+    "extension_number": 4455,
+    "mail_address": "henry.moore@example.com",
+    "model_id": 2008,
+    "organization": "営業部",
+    "role": "営業担当",
+    "user_id": 8,
+    "user_name": "小林 明美"
+  },
+  {
+    "_id": "60c72b2f9c1e7a001c8e4d18",
+    "category_id": 101,
+    "extension_number": 6699,
+    "mail_address": "ivy.taylor@example.com",
+    "model_id": 2009,
+    "organization": "デザイン部",
+    "role": "UI/UXデザイナー",
+    "user_id": 9,
+    "user_name": "加藤 拓海"
+  },
+  {
+    "_id": "60c72b2f9c1e7a001c8e4d19",
+    "category_id": 103,
+    "extension_number": 8877,
+    "mail_address": "jack.thomas@example.com",
+    "model_id": 2010,
+    "organization": "総務部",
+    "role": "総務担当",
+    "user_id": 10,
+    "user_name": "吉田 玲奈"
+  }
+]
