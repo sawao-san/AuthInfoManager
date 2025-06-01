@@ -1,0 +1,11 @@
+{
+  "name": "authinfoui",
+  "version": "1.0.0",
+  "description": "ユーザー権限を閲覧/登録/更新/削除するためのアプリのフロント側のソースコード",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

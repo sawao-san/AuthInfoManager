@@ -1,0 +1,61 @@
+<div class="container mt-4">
+  <h2>検索結果一覧</h2>
+
+
+
+  @if ( users.length === 0){
+  <div class="alert alert-info" role="alert">
+    表示するユーザーデータがありません。
+  </div>
+  } @else {
+
+  <table class="table table-striped table-bordered table-hover">
+    <thead class="table-dark">
+      <tr>
+        <th>ユーザー名</th>
+        <th>ユーザーID</th>
+        <th>メールアドレス</th>
+        <th>部署/組織</th>
+        <th>役割</th>
+        <th>内線番号</th>
+        <th>カテゴリID</th>
+        <th>モデルID</th>
+      </tr>
+    </thead>
+    <tbody>
+      @for (user of users; track user._id) {
+      <tr>
+        <td>
+          {{ user.user_name }}
+        </td>
+        <td>
+          {{ user.user_id }}
+        </td>
+        <td>
+          {{ user.mail_address }}
+        </td>
+        <td>
+          {{ user.organization }}
+        </td>
+        <td>
+          {{ user.role }}
+        </td>
+        <td>
+          {{ user.extension_number }}
+        </td>
+        <td>
+          {{ user.category_id }}
+        </td>
+        <td>
+          {{ user.model_id }}
+        </td>
+      </tr>
+
+      }
+
+    </tbody>
+  </table>
+
+  }
+
+</div>
